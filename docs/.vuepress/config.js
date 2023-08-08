@@ -24,8 +24,9 @@ module.exports = {
   themeConfig: {
     sidebar: 'auto',
     nav: [
-      {text: 'Why Encyclolist', link: '/whyEncyclolist/'},
       {text: 'Get Started', link: '/getStarted/'},
+      {text: 'Notation rules', link: '/notationrules/'},
+      {text: 'Back to App', link: 'https://encyclolist.uedasoft.com/'},
 /*      {text: 'Docs', 
        items: [
         {text: ''},
