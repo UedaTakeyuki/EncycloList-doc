@@ -18,7 +18,7 @@ https://www.plantsnap.com/plant-encyclopedia/ | Plant Encyclopedia: Complete Onl
 https://www.picturethisai.com/wiki | Online Plant Encyclopedia and Common Popular Plants
 ```
 
-The ``first line`` is the **Title** of this Enclist which is separated by the **blank line** that is ``line 2`` from the remaining **ItemList**
+The ``first line`` is the **Title** of this Enclist which is separated from the remaining **ItemList** by a **blank line** at ``second line``.
 
 Each part is defined as follows:
 
