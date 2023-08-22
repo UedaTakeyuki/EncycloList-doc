@@ -81,8 +81,10 @@ https://www.plantsnap.com/plant-encyclopedia/ | Plant Encyclopedia: Complete Onl
 https://www.picturethisai.com/wiki | Online Plant Encyclopedia and Common Popular Plants
 ```
 
+### no blank line
 In case there are **no blank lines**, the Encyclolist application recognizes that the first line is the **title** and this ecnlst has **blank ItemList** which has no item. This is probably not the result you wanted, you simply forgot to start with a blank line to omit the title.
 
+### several blank lines
 In case there are **several blank lines**, The Encyclolist application recognizes as **title** of the first line and as **ItemList** as remaining. Also, the Encyclolist application simply discards lines that cannot be recognized as item. As result, these multi-blank line enclst is recognized as the same as normal single blank line enclst
 
 ```
