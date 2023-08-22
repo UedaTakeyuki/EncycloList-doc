@@ -71,6 +71,7 @@ The Encyclolist application simply discards lines that cannot be recognized as i
 
 ## Special case
 
+### blank first line
 In case the **first line is blank**, the Encyclolist application recognizes that this enclst has **blank title** whcih consist of only brank character. If you want to omit the title, start with a blank line like this.
 
 ```
