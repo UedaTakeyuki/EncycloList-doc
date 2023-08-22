@@ -81,6 +81,18 @@ https://www.plantsnap.com/plant-encyclopedia/ | Plant Encyclopedia: Complete Onl
 https://www.picturethisai.com/wiki | Online Plant Encyclopedia and Common Popular Plants
 ```
 
+### last line blank
+Blank lines at the end of sentences are ignored.
+```
+https://www.bhg.com/gardening/plant-dictionary/ | Plant Encyclopedia
+https://www.plantsnap.com/plant-encyclopedia/ | Plant Encyclopedia: Complete Online Plant and Flower ...
+https://www.picturethisai.com/wiki | Online Plant Encyclopedia and Common Popular Plants
+
+
+
+```
+
+
 ### no blank line
 In case there are **no blank lines**, the Encyclolist application recognizes that the first line is the **title** and this ecnlst has **blank ItemList** which has no item. This is probably not the result you wanted, you simply forgot to start with a blank line to omit the title.
 
