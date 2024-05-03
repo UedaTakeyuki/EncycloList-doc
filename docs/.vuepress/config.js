@@ -24,8 +24,8 @@ module.exports = {
   themeConfig: {
     sidebar: 'auto',
     nav: [
-      {text: 'Get Started', link: '/getStarted/'},
-      {text: 'Notation rules', link: '/notationrules/'},
+//      {text: 'Get Started', link: '/getStarted/'},
+//      {text: 'Notation rules', link: '/notationrules/'},
       {text: 'Back to App', link: 'https://encyclolist.uedasoft.com/'},
 /*      {text: 'Docs', 
        items: [
